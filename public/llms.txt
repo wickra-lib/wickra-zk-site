@@ -1,0 +1,12 @@
+# Wickra ZK
+
+> Zero-knowledge, on-chain-verifiable backtest performance — without revealing your data or your strategy.
+
+Wickra ZK runs a deterministic Wickra backtest inside a zero-knowledge circuit and produces a proof that a stated result was reached, without publishing the strategy specification or the underlying data. Verification is cheap enough to run where the claim matters. Released under the MIT OR Apache-2.0 license.
+
+## Source
+- [GitHub](https://github.com/wickra-lib/wickra-zk): Source, issues, and releases.
+
+## Ecosystem
+- [Wickra](https://wickra.org): The core streaming-indicator library the ecosystem is built on.
+- [Docs](https://docs.wickra.org): Documentation for the Wickra core.

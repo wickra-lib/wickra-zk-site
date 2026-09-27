@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://zk.wickra.org"><img src="https://raw.githubusercontent.com/wickra-lib/.github/main/profile/wickra-banner.webp?v=514-7" alt="Wickra ZK — prove a backtest zero-knowledge — on-chain-verifiable performance without revealing the data or the strategy" width="100%"></a>
+  <a href="https://zk.wickra.org"><img src="https://raw.githubusercontent.com/wickra-lib/.github/main/profile/wickra-banner.svg?v=514-8" alt="Wickra ZK — prove a backtest zero-knowledge — on-chain-verifiable performance without revealing the data or the strategy" width="100%"></a>
 </p>
 
 [![Built on Wickra](https://raw.githubusercontent.com/wickra-lib/.github/main/profile/badges/wickra-zk-site/built-on.svg)](https://github.com/wickra-lib/wickra)

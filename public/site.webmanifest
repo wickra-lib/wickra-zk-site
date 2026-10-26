@@ -1,7 +1,7 @@
 {
   "name": "Wickra ZK",
   "short_name": "Wickra ZK",
-  "description": "Parallel multi-symbol screening over 514 streaming indicators.",
+  "description": "Prove a backtest zero-knowledge — on-chain-verifiable performance without revealing the data or the strategy.",
   "icons": [
     { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
     { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }

@@ -30,7 +30,7 @@ features:
     details: "A zero-knowledge proof is only as meaningful as the computation it covers. The one underneath is the deterministic Wickra engine, whose output is reproducible by construction."
   - icon: ⚙️
     title: "Built on the core"
-    details: "The same engine and the same 514 indicators as the rest of the stack."
+    details: "The same engine and the same 495 indicators as the rest of the stack."
 ---
 
 <script setup>
